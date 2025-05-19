@@ -1,9 +1,9 @@
 - 👋 Hi, I’m John Yuill
-- I’m a data analytics manager with a passion for building teams that work together to improve understanding of the business environment and support strategic and tactical decisions using the power of data.
-- After pushing the limits of spreadsheets for years, I made a full pivot to R for data programming about 5 years ago and have spear-headed the use of R across teams I lead.
+- I’m a former data analytics manager with a passion for unleashing the power of data by breaking down barriers between data and decisions. 
+- After pushing the limits of spreadsheets for years, I made a full pivot to R for data programming in the mid-2010's and started spear-headed the use of R across teams I lead, often by getting in the trenches and leading by example.
 - Always learning, adapting, finding better ways to solve progressively harder problems.
 - These repos are a collection of projects for learning, demonstration, edification, and my own amusement.  
-- 📫 You can read my [blog: catbird analytics](https://catbirdanalytics.wordpress.com/) or check out my [porfolio site: jyuill.github.io](https://www.linkedin.com/in/johnyuill/) and/or reach me at [linkedin.com/in/johnyuill](https://www.linkedin.com/in/johnyuill/) 
+- 📫 You can read my [blog: catbird analytics](https://catbird-analytics.com/) or check out my [porfolio site: jyuill.github.io](https://www.linkedin.com/in/johnyuill/) and/or reach me at [linkedin.com/in/johnyuill](https://www.linkedin.com/in/johnyuill/) 
 
 <!---
 jyuill/jyuill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
